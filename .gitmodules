@@ -1,4 +1,3 @@
-[submodule "charts"]
-	path = charts
-	url = git@github.com:plehmkuhl/charts.git
-	branch = foundryvtt/10.x
+[submodule "helm-charts"]
+	path = helm-charts
+	url = git@github.com:plehmkuhl/helm-charts.git
