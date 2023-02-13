@@ -1,0 +1,4 @@
+[submodule "charts"]
+	path = charts
+	url = git@github.com:plehmkuhl/charts.git
+	branch = foundryvtt/10.x
